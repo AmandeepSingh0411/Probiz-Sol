@@ -1,0 +1,896 @@
+.group-2-2 {
+    position: absolute;
+    top: calc(50% - 38px);
+    left: 112px;
+    width: 161px;
+    height: 81px;
+    object-fit: cover;
+}
+.about {
+    position: relative;
+    font-weight: 500;
+}
+.about-parent {
+    position: absolute;
+    top: 35px;
+    left: 901px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 28px;
+}
+.nav {
+    width: 1500px;
+    position: absolute;
+    margin: 0 !important;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+    text-align: left;
+    font-size: 25px;
+}
+.your-premier-source-container {
+    position: absolute;
+    top: calc(50% - 95.5px);
+    left: calc(50% + 98.5px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    font-weight: 600;
+}
+.hardware-services {
+    margin: 0;
+}
+.hardware-services-container {
+    position: absolute;
+    top: calc(50% - 57.5px);
+    left: calc(50% - 94.5px);
+    font-size: 70px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    display: inline-block;
+    width: 734px;
+}
+.illustration-hero-1 {
+    position: absolute;
+    top: 114px;
+    left: 112px;
+    width: 544px;
+    height: 545px;
+    object-fit: cover;
+}
+.your-premier-source-for-top-qu-parent {
+    width: 1501px;
+    position: relative;
+    height: 701px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+    text-align: right;
+    font-size: 30.7px;
+    color: #0d30eb;
+}
+.choose-probiz-solutions {
+    position: absolute;
+    top: 65px;
+    left: calc(50% - 409.5px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    font-weight: 500;
+    color: #6c6c6c;
+    display: inline-block;
+    width: 819px;
+}
+.why-probiz {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 144.5px);
+    font-size: 46.67px;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-family: Mulish;
+    color: #000936;
+    text-align: right;
+}
+.comprehensive-repair-and {
+    position: absolute;
+    top: 128px;
+    left: calc(50% - 98px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    font-weight: 500;
+    display: inline-block;
+    width: 196px;
+    height: 92px;
+}
+.expert-hardware-maintenance {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 125px);
+    font-size: 29.11px;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: Mulish;
+    color: #000936;
+    display: inline-block;
+    width: 251px;
+}
+.frame-child {
+    position: absolute;
+    top: 111.5px;
+    left: calc(50% - 98.5px);
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 197px;
+    height: 1px;
+}
+.comprehensive-repair-and-maint-parent {
+    position: absolute;
+    top: 203px;
+    left: calc(50% - 133.5px);
+    box-shadow: 6px 15px 18.9px rgba(0, 0, 0, 0.25);
+    border-radius: 45px 0px 45px 0px;
+    background-color: #f4f8ff;
+    border: 4px solid rgba(8, 47, 254, 0.5);
+    box-sizing: border-box;
+    width: 266px;
+    height: 284px;
+    overflow: hidden;
+}
+.expert-advice-to-help-you-sele-parent {
+    position: absolute;
+    top: 203px;
+    left: calc(50% - 436.5px);
+    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
+    border-radius: 45px 0px 45px 0px;
+    background-color: #f4f8ff;
+    border: 4px solid rgba(8, 47, 254, 0.5);
+    box-sizing: border-box;
+    width: 266px;
+    height: 284px;
+    overflow: hidden;
+}
+.round-the-clock-customer-servi-parent {
+    position: absolute;
+    top: 203px;
+    left: calc(50% - 739.5px);
+    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
+    border-radius: 45px 0px 45px 0px;
+    background-color: #f4f8ff;
+    border: 4px solid rgba(8, 47, 254, 0.5);
+    box-sizing: border-box;
+    width: 266px;
+    height: 284px;
+    overflow: hidden;
+}
+.professional-installation-of {
+    position: absolute;
+    top: 128px;
+    left: calc(50% - 108px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    font-weight: 500;
+    display: inline-block;
+    width: 216px;
+    height: 163px;
+}
+.professional-installation-of-c-parent {
+    position: absolute;
+    top: 203px;
+    left: calc(50% + 169.5px);
+    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
+    border-radius: 45px 0px 45px 0px;
+    background-color: #f4f8ff;
+    border: 4px solid rgba(8, 47, 254, 0.5);
+    box-sizing: border-box;
+    width: 266px;
+    height: 284px;
+    overflow: hidden;
+}
+.wide-selection-of-top-brand-pr-parent {
+    position: absolute;
+    top: 203px;
+    left: calc(50% + 472.5px);
+    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
+    border-radius: 45px 0px 45px 0px;
+    background-color: #f4f8ff;
+    border: 4px solid rgba(8, 47, 254, 0.5);
+    box-sizing: border-box;
+    width: 266px;
+    height: 284px;
+    overflow: hidden;
+}
+.choose-probiz-solutions-for-un-parent {
+    width: 1501px;
+    position: relative;
+    height: 551px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+    color: #575757;
+    font-family: 'Futura PT';
+}
+.rectangle-icon {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+    border-radius: 10px;
+    width: 139px;
+    height: 139px;
+    object-fit: cover;
+}
+.rectangle-wrapper {
+    width: 154px;
+    position: relative;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background-color: #fff;
+    height: 154px;
+}
+.frame-child2 {
+    position: absolute;
+    top: 7px;
+    left: calc(50% - 71px);
+    border-radius: 10px;
+    width: 141px;
+    height: 140px;
+    object-fit: cover;
+}
+.frame-child3 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 69px);
+    border-radius: 10px;
+    width: 137px;
+    height: 137px;
+    object-fit: cover;
+}
+.frame-child5 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 68px);
+    border-radius: 10px;
+    width: 136px;
+    height: 136px;
+    object-fit: cover;
+}
+.frame-icon {
+    width: 154px;
+    position: relative;
+    border-radius: 10px;
+    height: 154px;
+    object-fit: cover;
+}
+.frame-child9 {
+    position: absolute;
+    top: calc(50% - 70px);
+    left: calc(50% - 71px);
+    border-radius: 10px;
+    width: 141px;
+    height: 140px;
+    object-fit: cover;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: -66px;
+    height: 154px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 28px;
+}
+.carousel {
+    position: absolute;
+    top: 119px;
+    left: 0px;
+    width: 1501px;
+    height: 167px;
+    overflow: hidden;
+}
+.industry-partners {
+    position: absolute;
+    top: 26px;
+    left: calc(50% - 187.5px);
+    line-height: 110%;
+    text-transform: capitalize;
+}
+.frame-child20 {
+    position: absolute;
+    top: 75.5px;
+    left: 711.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 224px;
+    height: 1px;
+}
+.frame-child21 {
+    position: absolute;
+    top: 327px;
+    left: 0px;
+    width: 1501px;
+    height: 594px;
+    overflow: hidden;
+}
+.frame-child22 {
+    position: absolute;
+    top: 93px;
+    left: -17px;
+    width: 139px;
+    height: 215px;
+}
+.frame-child23 {
+    position: absolute;
+    top: 95px;
+    left: 1375px;
+    width: 145px;
+    height: 215px;
+    object-fit: contain;
+}
+.carousel-parent {
+    width: 1501px;
+    position: relative;
+    height: 330px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 3;
+    font-size: 46.67px;
+    color: #000936;
+}
+.ellipse-div {
+    position: absolute;
+    top: 346px;
+    left: 847px;
+    filter: blur(100px);
+    border-radius: 50%;
+    background: linear-gradient(180deg, #fffefe, #000);
+    width: 341px;
+    height: 47px;
+}
+.keep-your-cool {
+    position: absolute;
+    top: 69px;
+    left: 41px;
+    font-size: 46.67px;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.the-ultimate-commercial {
+    position: absolute;
+    top: 130px;
+    left: 44px;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: #444448;
+}
+.fv-1000sz {
+    position: absolute;
+    top: 254px;
+    left: 41px;
+    font-size: 31.11px;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #444448;
+}
+.dimensions-1024 {
+    position: absolute;
+    top: 296px;
+    left: 41px;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: #545357;
+}
+.capacity-937 {
+    position: absolute;
+    top: 323px;
+    left: 41px;
+    line-height: 110%;
+    color: #545357;
+}
+.learn-more {
+    position: relative;
+    line-height: 110%;
+}
+.arrow-outward-icon {
+    width: 26px;
+    position: relative;
+    height: 26px;
+}
+.learn-more-parent {
+    position: absolute;
+    top: 367px;
+    left: 41px;
+    border-radius: 8px;
+    border: 1px solid rgba(68, 68, 73, 0.53);
+    box-sizing: border-box;
+    width: 168px;
+    height: 34px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 106px;
+    left: 113px;
+    background-color: #d5e0fe;
+    width: 1270px;
+    height: 434px;
+    overflow: hidden;
+}
+.whatsapp-image-2024-06-23-at-2 {
+    position: absolute;
+    top: -15px;
+    left: 871px;
+    width: 499px;
+    height: 573px;
+    object-fit: cover;
+}
+.frame-group {
+    width: 1501px;
+    position: relative;
+    height: 591px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 4;
+    text-align: left;
+    color: #09005d;
+}
+.frame-child24 {
+    position: absolute;
+    top: 49.5px;
+    left: 733.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 223px;
+    height: 1px;
+}
+.explore-our-products {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 249.5px);
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.image-10-icon {
+    position: absolute;
+    top: 35px;
+    left: 34px;
+    width: 208px;
+    height: 263px;
+    object-fit: cover;
+}
+.component-2 {
+    position: absolute;
+    top: 101px;
+    left: 116px;
+    border-radius: 16px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    width: 277px;
+    height: 334px;
+    overflow: hidden;
+}
+.image-5-icon {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 231px;
+    height: 293px;
+    object-fit: cover;
+}
+.component-3 {
+    position: absolute;
+    top: 101px;
+    left: 450px;
+    border-radius: 16px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    width: 277px;
+    height: 334px;
+    overflow: hidden;
+}
+.image-11-icon {
+    position: absolute;
+    top: 108px;
+    left: 6px;
+    width: 265px;
+    height: 118px;
+    object-fit: cover;
+}
+.component-4 {
+    position: absolute;
+    top: 101px;
+    left: 784px;
+    border-radius: 16px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    width: 277px;
+    height: 334px;
+    overflow: hidden;
+}
+.image-6-icon {
+    position: absolute;
+    top: 36px;
+    left: 7px;
+    width: 262px;
+    height: 262px;
+    object-fit: cover;
+}
+.component-5 {
+    position: absolute;
+    top: 101px;
+    left: 1118px;
+    border-radius: 16px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    width: 277px;
+    height: 334px;
+    overflow: hidden;
+}
+.line-parent {
+    width: 1501px;
+    position: relative;
+    height: 480px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 5;
+    font-size: 46.67px;
+    color: #000936;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #dce5ff;
+    width: 1501px;
+    height: 493px;
+}
+.explore-the-voices {
+    position: absolute;
+    top: 189px;
+    left: 410px;
+    font-size: 21px;
+    letter-spacing: 0.01em;
+    font-family: 'Hind Madurai';
+    color: #09005d;
+    display: inline-block;
+    width: 680px;
+}
+.what-people-say {
+    position: absolute;
+    top: 116px;
+    left: 479px;
+    font-size: 43px;
+    letter-spacing: 0.27em;
+    font-weight: 600;
+    color: #1c1b1f;
+    text-align: left;
+}
+.testimonials {
+    position: absolute;
+    top: 76px;
+    left: 597px;
+    font-size: 29px;
+    letter-spacing: 0.27em;
+    color: #1c1b1f;
+    text-align: left;
+}
+.div {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: 0.05em;
+    color: #0871be;
+
+    display: inline-block;
+    height: 85.9px;
+    flex-shrink: 0;
+    transform:  rotate(180deg);
+   
+}
+.the-team-at {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    letter-spacing: 0.03em;
+    font-weight: 300;
+    font-family: Mulish;
+}
+.frame-child25 {
+    width: 245px;
+    position: relative;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    height: 1px;
+}
+.unsplash3tll-97hnjo-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 150.5px;
+    width: 51px;
+    height: 63px;
+    object-fit: cover;
+}
+.gagandeep {
+    position: absolute;
+    top: 9px;
+    left: 74px;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+}
+.unsplash3tll-97hnjo-parent {
+    width: 206px;
+    position: relative;
+    height: 63px;
+    font-size: 25px;
+    font-family: 'Hind Madurai';
+}
+.parent {
+    position: absolute;
+    top: 279px;
+    left: 570px;
+    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 21px;
+    background-color: #ebf7ff;
+    width: 361px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px 34px;
+    box-sizing: border-box;
+    gap: 26px;
+    font-size: 153px;
+    font-family: Impact;
+}
+.icon {
+    width: 47.5px;
+    position: relative;
+    height: 39.3px;
+}
+.probiz-solutions-transformed {
+    width: 226px;
+    position: relative;
+    letter-spacing: 0.03em;
+    font-weight: 300;
+    display: inline-block;
+}
+.frame-child26 {
+    align-self: stretch;
+    position: relative;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    height: 1px;
+}
+.unsplash3tll-97hnjo-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 150.5px;
+    width: 42px;
+    height: 52px;
+    object-fit: cover;
+}
+.amandeep-singh {
+    position: absolute;
+    top: 9px;
+    left: 50px;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+}
+.unsplash3tll-97hnjo-group {
+    width: 215px;
+    position: relative;
+    height: 52px;
+    font-size: 21px;
+    font-family: 'Hind Madurai';
+}
+.group {
+    position: absolute;
+    top: 311px;
+    left: 1007px;
+    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 21px;
+    background-color: #ebf7ff;
+    width: 330px;
+    height: 387px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 40px 15px 0px;
+    box-sizing: border-box;
+    gap: 35px;
+    font-family: Mulish;
+}
+.harpal-singh {
+    position: absolute;
+    top: 9px;
+    left: 71px;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+}
+.unsplash3tll-97hnjo-container {
+    width: 194px;
+    position: relative;
+    height: 52px;
+    font-size: 21px;
+    font-family: 'Hind Madurai';
+}
+.container {
+    position: absolute;
+    top: 311px;
+    left: 164px;
+    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 21px;
+    background-color: #ebf7ff;
+    width: 330px;
+    height: 387px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 40px 15px 0px;
+    box-sizing: border-box;
+    gap: 35px;
+    font-family: Mulish;
+}
+.frame-child28 {
+    position: absolute;
+    top: -33px;
+    left: -11px;
+    border-radius: 50%;
+    background-color: #4345e7;
+    width: 175px;
+    height: 175px;
+}
+.vector-icon {
+    position: absolute;
+    height: 7.84%;
+    width: 9.26%;
+    top: 53.51%;
+    right: -2.2%;
+    bottom: 38.65%;
+    left: 92.94%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    opacity: 0.8;
+}
+.rectangle-parent {
+    width: 1501px;
+    position: relative;
+    background-color: #f4f8ff;
+    height: 740px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 6;
+    font-size: 17px;
+    font-family: Montserrat;
+}
+.icsharp-facebook {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.icsharp-facebook1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.reach-out {
+    position: absolute;
+    top: 63px;
+    left: 162px;
+    font-size: 50px;
+    font-weight: 500;
+}
+.arrow-outward-icon1 {
+    position: absolute;
+    top: 68px;
+    left: 412px;
+    width: 61px;
+    height: 61px;
+}
+.have-questions-or {
+    position: absolute;
+    top: 147px;
+    left: 162px;
+    color: #3e3e3e;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 648px;
+}
+.call-icon {
+    position: absolute;
+    top: 337px;
+    left: 162px;
+    width: 24px;
+    height: 24px;
+}
+.near-me-icon {
+    position: absolute;
+    top: 337px;
+    left: 486px;
+    width: 24px;
+    height: 24px;
+}
+.attach-email-icon {
+    position: absolute;
+    top: 420px;
+    left: 162px;
+    width: 24px;
+    height: 24px;
+}
+.div1 {
+    position: absolute;
+    top: 337px;
+    left: 208px;
+}
+.probizsolutionsgmailcom {
+    position: absolute;
+    top: 417px;
+    left: 197px;
+}
+.plot-no-7-container {
+    position: absolute;
+    top: 337px;
+    left: 532px;
+}
+.frame-child29 {
+    position: absolute;
+    top: 70px;
+    left: 935px;
+    width: 460px;
+    height: 399px;
+    overflow: hidden;
+}
+.icsharp-facebook-parent {
+    width: 1501px;
+    position: relative;
+    background-color: #dce5ff;
+    height: 573px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 7;
+    text-align: left;
+    font-size: 19.22px;
+}
+.probiz-web {
+    position: relative;
+    background-color: #f8faff;
+    width: 100%;
+    height: 3978px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+    text-align: center;
+    font-size: 20.74px;
+    color: #000;
+    font-family: Mulish;
+}
+
