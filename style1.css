@@ -1,11 +1,3 @@
-.group-2-2 {
-    position: absolute;
-    top: calc(50% - 38px);
-    left: 112px;
-    width: 161px;
-    height: 81px;
-    object-fit: cover;
-}
 .about {
     position: relative;
     font-weight: 500;
@@ -13,344 +5,591 @@
 .about-parent {
     position: absolute;
     top: 35px;
-    left: 901px;
+    left: 826px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     justify-content: flex-start;
     gap: 28px;
 }
-.nav {
-    width: 1500px;
+.logof-1-icon {
     position: absolute;
-    margin: 0 !important;
-    top: 0px;
-    left: 0px;
-    height: 100px;
-    overflow: hidden;
-    flex-shrink: 0;
-    z-index: 0;
-    text-align: left;
-    font-size: 25px;
-}
-.your-premier-source-container {
-    position: absolute;
-    top: calc(50% - 95.5px);
-    left: calc(50% + 98.5px);
-    letter-spacing: 0.02em;
-    line-height: 110%;
-    font-weight: 600;
-}
-.hardware-services {
-    margin: 0;
-}
-.hardware-services-container {
-    position: absolute;
-    top: calc(50% - 57.5px);
-    left: calc(50% - 94.5px);
-    font-size: 70px;
-    letter-spacing: 0.02em;
-    line-height: 110%;
-    display: inline-block;
-    width: 734px;
-}
-.illustration-hero-1 {
-    position: absolute;
-    top: 114px;
-    left: 112px;
-    width: 544px;
-    height: 545px;
+    top: 10px;
+    left: 110px;
+    width: 163px;
+    height: 81px;
     object-fit: cover;
-}
-.your-premier-source-for-top-qu-parent {
-    width: 1501px;
-    position: relative;
-    height: 701px;
-    overflow: hidden;
-    flex-shrink: 0;
-    z-index: 1;
-    text-align: right;
-    font-size: 30.7px;
-    color: #0d30eb;
-}
-.choose-probiz-solutions {
-    position: absolute;
-    top: 65px;
-    left: calc(50% - 409.5px);
-    letter-spacing: 0.02em;
-    line-height: 110%;
-    font-weight: 500;
-    color: #6c6c6c;
-    display: inline-block;
-    width: 819px;
-}
-.why-probiz {
-    position: absolute;
-    top: 6px;
-    left: calc(50% - 144.5px);
-    font-size: 46.67px;
-    line-height: 110%;
-    text-transform: capitalize;
-    font-family: Mulish;
-    color: #000936;
-    text-align: right;
-}
-.comprehensive-repair-and {
-    position: absolute;
-    top: 128px;
-    left: calc(50% - 98px);
-    letter-spacing: 0.02em;
-    line-height: 110%;
-    font-weight: 500;
-    display: inline-block;
-    width: 196px;
-    height: 92px;
-}
-.expert-hardware-maintenance {
-    position: absolute;
-    top: 30px;
-    left: calc(50% - 125px);
-    font-size: 29.11px;
-    line-height: 35px;
-    text-transform: capitalize;
-    font-weight: 500;
-    font-family: Mulish;
-    color: #000936;
-    display: inline-block;
-    width: 251px;
 }
 .frame-child {
     position: absolute;
-    top: 111.5px;
-    left: calc(50% - 98.5px);
-    border-top: 1px solid #000;
-    box-sizing: border-box;
-    width: 197px;
-    height: 1px;
+    top: 35px;
+    left: calc(50% - 29px);
+    filter: blur(10px);
+    border-radius: 50%;
+    background-color: #7f93ff;
+    width: 58px;
+    height: 12px;
 }
-.comprehensive-repair-and-maint-parent {
+.reach-out {
     position: absolute;
-    top: 203px;
-    left: calc(50% - 133.5px);
-    box-shadow: 6px 15px 18.9px rgba(0, 0, 0, 0.25);
-    border-radius: 45px 0px 45px 0px;
-    background-color: #f4f8ff;
-    border: 4px solid rgba(8, 47, 254, 0.5);
-    box-sizing: border-box;
-    width: 266px;
-    height: 284px;
-    overflow: hidden;
-}
-.expert-advice-to-help-you-sele-parent {
-    position: absolute;
-    top: 203px;
-    left: calc(50% - 436.5px);
-    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
-    border-radius: 45px 0px 45px 0px;
-    background-color: #f4f8ff;
-    border: 4px solid rgba(8, 47, 254, 0.5);
-    box-sizing: border-box;
-    width: 266px;
-    height: 284px;
-    overflow: hidden;
-}
-.round-the-clock-customer-servi-parent {
-    position: absolute;
-    top: 203px;
-    left: calc(50% - 739.5px);
-    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
-    border-radius: 45px 0px 45px 0px;
-    background-color: #f4f8ff;
-    border: 4px solid rgba(8, 47, 254, 0.5);
-    box-sizing: border-box;
-    width: 266px;
-    height: 284px;
-    overflow: hidden;
-}
-.professional-installation-of {
-    position: absolute;
-    top: 128px;
-    left: calc(50% - 108px);
-    letter-spacing: 0.02em;
-    line-height: 110%;
+    top: calc(50% - 16px);
+    left: calc(50% - 59px);
     font-weight: 500;
-    display: inline-block;
-    width: 216px;
-    height: 163px;
 }
-.professional-installation-of-c-parent {
+.ellipse-parent {
     position: absolute;
-    top: 203px;
-    left: calc(50% + 169.5px);
-    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
-    border-radius: 45px 0px 45px 0px;
-    background-color: #f4f8ff;
-    border: 4px solid rgba(8, 47, 254, 0.5);
+    top: 31px;
+    left: 1183px;
+    box-shadow: 0px 0px 12.2px rgba(255, 255, 255, 0.25) inset, 0px 0px 9.1px 4px rgba(44, 78, 255, 0.27);
+    border-radius: 22px;
+    background: radial-gradient(50% 50% at 50% 50%, #3555ff, #3147bc);
+    border: 1px solid #3352f9;
     box-sizing: border-box;
-    width: 266px;
-    height: 284px;
+    width: 152px;
+    height: 38px;
     overflow: hidden;
+    font-size: 24px;
 }
-.wide-selection-of-top-brand-pr-parent {
-    position: absolute;
-    top: 203px;
-    left: calc(50% + 472.5px);
-    box-shadow: 2px 9px 11.2px rgba(0, 0, 0, 0.25);
-    border-radius: 45px 0px 45px 0px;
-    background-color: #f4f8ff;
-    border: 4px solid rgba(8, 47, 254, 0.5);
-    box-sizing: border-box;
-    width: 266px;
-    height: 284px;
-    overflow: hidden;
-}
-.choose-probiz-solutions-for-un-parent {
-    width: 1501px;
+.nav {
+    width: 1440px;
     position: relative;
-    height: 551px;
+    height: 100px;
     overflow: hidden;
     flex-shrink: 0;
-    z-index: 2;
-    color: #575757;
-    font-family: 'Futura PT';
+    text-align: left;
+    font-size: 25px;
 }
-.rectangle-icon {
+.your-premier-source {
+    margin: 0;
+}
+.your-premier-source-container {
     position: absolute;
-    top: 7px;
-    left: 8px;
-    border-radius: 10px;
-    width: 139px;
-    height: 139px;
-    object-fit: cover;
+    top: calc(50% - 256.5px);
+    left: calc(50% - 511px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    display: inline-block;
+    width: 1023px;
 }
-.rectangle-wrapper {
-    width: 154px;
-    position: relative;
-    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #fff;
-    height: 154px;
-}
-.frame-child2 {
+.frame-item {
     position: absolute;
-    top: 7px;
-    left: calc(50% - 71px);
-    border-radius: 10px;
-    width: 141px;
-    height: 140px;
-    object-fit: cover;
+    top: 143px;
+    left: 646px;
+    width: 176px;
+    height: 14px;
 }
-.frame-child3 {
+.our-commitment-to {
     position: absolute;
-    top: 9px;
-    left: calc(50% - 69px);
-    border-radius: 10px;
-    width: 137px;
-    height: 137px;
-    object-fit: cover;
+    top: calc(50% - 91.5px);
+    left: calc(50% - 346px);
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    color: #d6d6d6;
+    display: inline-block;
+    width: 691px;
 }
-.frame-child5 {
-    position: absolute;
-    top: 9px;
-    left: calc(50% - 68px);
-    border-radius: 10px;
-    width: 136px;
-    height: 136px;
-    object-fit: cover;
-}
-.frame-icon {
-    width: 154px;
-    position: relative;
-    border-radius: 10px;
-    height: 154px;
-    object-fit: cover;
-}
-.frame-child9 {
-    position: absolute;
-    top: calc(50% - 70px);
-    left: calc(50% - 71px);
-    border-radius: 10px;
-    width: 141px;
-    height: 140px;
-    object-fit: cover;
-}
-.frame-parent {
+.frigoui-icon {
     position: absolute;
     top: 0px;
-    left: -66px;
-    height: 154px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 28px;
+    left: 387.35px;
+    width: 156.2px;
+    height: 338.3px;
+    object-fit: cover;
 }
-.carousel {
+.exideui-icon {
     position: absolute;
-    top: 119px;
+    top: 0px;
+    left: 582.41px;
+    width: 154.4px;
+    height: 334.7px;
+    object-fit: cover;
+}
+.voltasui-icon {
+    position: absolute;
+    top: 0px;
+    left: 775.62px;
+    width: 154.4px;
+    height: 334.7px;
+    object-fit: cover;
+}
+.westernui-icon {
+    position: absolute;
+    top: 0px;
+    left: 194.14px;
+    width: 154.4px;
+    height: 334.7px;
+    object-fit: cover;
+}
+.symphonyui-icon {
+    position: absolute;
+    top: 0px;
     left: 0px;
-    width: 1501px;
-    height: 167px;
-    overflow: hidden;
+    width: 155.3px;
+    height: 334.7px;
+    object-fit: cover;
 }
-.industry-partners {
+.frigoui-parent {
     position: absolute;
-    top: 26px;
-    left: calc(50% - 187.5px);
+    top: 332.65px;
+    left: 255px;
+    width: 930px;
+    height: 338.3px;
+}
+.frame-inner {
+    position: absolute;
+    top: 530px;
+    left: 255px;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0), #212125);
+    width: 930px;
+    height: 90px;
+}
+.your-premier-source-for-top-qu-parent {
+    width: 1440px;
+    position: relative;
+    height: 619px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.probiz-is-trusted {
+    position: absolute;
+    top: calc(50% - 149px);
+    left: calc(50% - 218px);
+    letter-spacing: 0.02em;
     line-height: 110%;
     text-transform: capitalize;
 }
-.frame-child20 {
-    position: absolute;
-    top: 75.5px;
-    left: 711.5px;
-    border-top: 1px solid #000;
-    box-sizing: border-box;
-    width: 224px;
-    height: 1px;
-}
-.frame-child21 {
-    position: absolute;
-    top: 327px;
-    left: 0px;
-    width: 1501px;
-    height: 594px;
-    overflow: hidden;
-}
-.frame-child22 {
-    position: absolute;
-    top: 93px;
-    left: -17px;
-    width: 139px;
-    height: 215px;
-}
-.frame-child23 {
-    position: absolute;
-    top: 95px;
-    left: 1375px;
-    width: 145px;
-    height: 215px;
-    object-fit: contain;
-}
-.carousel-parent {
-    width: 1501px;
+.rectangle-icon {
+    width: 154px;
     position: relative;
-    height: 330px;
+    border-radius: 10px;
+    height: 56px;
+    object-fit: cover;
+}
+.image-13-icon {
+    width: 133px;
+    position: relative;
+    height: 44px;
+    object-fit: cover;
+}
+.image-14-icon {
+    width: 125px;
+    position: relative;
+    height: 51px;
+    object-fit: cover;
+}
+.frame-child1 {
+    width: 137px;
+    position: relative;
+    border-radius: 10px;
+    height: 45px;
+    object-fit: cover;
+}
+.frame-child2 {
+    width: 77px;
+    position: relative;
+    border-radius: 10px;
+    height: 76px;
+    object-fit: cover;
+}
+.frame-child3 {
+    width: 109px;
+    position: relative;
+    border-radius: 10px;
+    height: 109px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 133px;
+    left: 216px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+.frame-child4 {
+    width: 141px;
+    position: relative;
+    border-radius: 10px;
+    height: 76px;
+    object-fit: cover;
+}
+.frame-child5 {
+    width: 139px;
+    position: relative;
+    border-radius: 10px;
+    height: 47px;
+    object-fit: cover;
+}
+.frame-child6 {
+    width: 125px;
+    position: relative;
+    border-radius: 10px;
+    height: 42px;
+    object-fit: cover;
+}
+.frame-child7 {
+    width: 113px;
+    position: relative;
+    border-radius: 10px;
+    height: 48.2px;
+    object-fit: cover;
+}
+.frame-child8 {
+    width: 154px;
+    position: relative;
+    border-radius: 10px;
+    height: 154px;
+    object-fit: cover;
+}
+.rectangle-group {
+    position: absolute;
+    top: 213px;
+    left: 310px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 37px;
+}
+.probiz-is-trusted-by-parent {
+    width: 1440px;
+    position: relative;
+    height: 422px;
     overflow: hidden;
     flex-shrink: 0;
-    z-index: 3;
-    font-size: 46.67px;
-    color: #000936;
+}
+.why-probiz {
+    position: absolute;
+    top: calc(50% - 393.5px);
+    left: calc(50% - 123px);
+    font-size: 44px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    color: #fff;
+}
+.choose-probiz-solutions {
+    position: absolute;
+    top: 89px;
+    left: calc(50% - 409px);
+    font-size: 20.74px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: lowercase;
+    color: #d6d6d6;
+    display: inline-block;
+    width: 819px;
+}
+.vector-icon {
+    position: absolute;
+    filter: blur(25px);
+    top: 458.25px;
+    left: 270.54px;
+    width: 898.7px;
+    height: 124.6px;
+    object-fit: contain;
+}
+.div {
+    position: absolute;
+    top: calc(50% - 67.5px);
+    left: calc(50% - 278.5px);
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: lowercase;
+    font-weight: 500;
+    font-family: 'Futura PT';
+}
+.unmatched-expertise {
+    position: absolute;
+    top: 40px;
+    left: 126px;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff;
+}
+.our-team-of {
+    position: absolute;
+    top: 95px;
+    left: 129px;
+    font-size: 24px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: lowercase;
+    font-weight: 300;
+    color: #d6d6d6;
+    text-align: justify;
+    display: inline-block;
+    width: 381px;
+}
+.parent {
+    position: absolute;
+    top: 224px;
+    left: 112px;
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    background-color: rgba(42, 44, 51, 0.6);
+    border: 1px solid rgba(65, 65, 65, 0.3);
+    box-sizing: border-box;
+    width: 593px;
+    height: 265px;
+    overflow: hidden;
+}
+.comprehensive-support {
+    position: absolute;
+    top: 40px;
+    left: 129px;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff;
+}
+.group {
+    position: absolute;
+    top: 521px;
+    left: 112px;
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    background-color: rgba(42, 44, 51, 0.6);
+    border: 1px solid rgba(53, 85, 255, 0.25);
+    box-sizing: border-box;
+    width: 593px;
+    height: 265px;
+    overflow: hidden;
+}
+.high-quality-products {
+    position: absolute;
+    top: 40px;
+    left: 119px;
+    font-size: 32px;
+    letter-spacing: 0.02em;
+    line-height: 110%;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff;
+}
+.container {
+    position: absolute;
+    top: 224px;
+    left: 737px;
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    background-color: rgba(42, 44, 51, 0.6);
+    border: 1px solid rgba(65, 65, 65, 0.3);
+    box-sizing: border-box;
+    width: 593px;
+    height: 265px;
+    overflow: hidden;
+}
+.frame-div {
+    position: absolute;
+    top: 521px;
+    left: 737px;
+    backdrop-filter: blur(20px);
+    border-radius: 16px;
+    background-color: rgba(42, 44, 51, 0.6);
+    border: 1px solid rgba(53, 85, 255, 0.25);
+    box-sizing: border-box;
+    width: 593px;
+    height: 265px;
+    overflow: hidden;
+}
+.why-probiz-parent {
+    width: 1440px;
+    position: relative;
+    height: 835px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 122.74px;
+    color: #212125;
+}
+.icsharp-more-time-icon {
+    position: absolute;
+    top: 468px;
+    left: 215px;
+    width: 110px;
+    height: 110px;
+    overflow: hidden;
+}
+.mingcuteservice-fill-icon {
+    position: absolute;
+    top: 747px;
+    left: 216px;
+    width: 104px;
+    height: 104px;
+    overflow: hidden;
+}
+.mdiaccount-service-icon {
+    position: absolute;
+    top: 610px;
+    left: 1132px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.clarityform-line-icon {
+    position: absolute;
+    top: 315px;
+    left: 1125px;
+    width: 122px;
+    height: 122px;
+    overflow: hidden;
+}
+.what-happens-when {
+    position: absolute;
+    top: 0px;
+    left: 397px;
+    font-size: 44px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 646px;
+}
+.line-div {
+    position: absolute;
+    top: 172.5px;
+    left: calc(50% - 0.5px);
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1px;
+    height: 712px;
+}
+.consulting-icon-1 {
+    position: absolute;
+    top: 158px;
+    left: 215px;
+    width: 116.4px;
+    height: 122.9px;
+    overflow: hidden;
+}
+.initial-consultation {
+    position: absolute;
+    top: 173px;
+    left: 352px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.service-scheduling {
+    position: absolute;
+    top: 461px;
+    left: 350px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.post-service-follow-up {
+    position: absolute;
+    top: 740px;
+    left: 352px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.assessment-and-quotation {
+    position: absolute;
+    top: 310px;
+    left: 744px;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-align: right;
+}
+.service-execution {
+    position: absolute;
+    top: 610px;
+    left: 873px;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-align: right;
+}
+.our-experts-will {
+    position: absolute;
+    top: 219px;
+    left: 352px;
+    font-size: 16px;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #d6d6d6;
+    text-align: left;
+    display: inline-block;
+    width: 266px;
+}
+.well-schedule-the {
+    position: absolute;
+    top: 507px;
+    left: 352px;
+    font-size: 16px;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #d6d6d6;
+    text-align: left;
+    display: inline-block;
+    width: 266px;
+}
+.after-the-service {
+    position: absolute;
+    top: 786px;
+    left: 352px;
+    font-size: 16px;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #d6d6d6;
+    text-align: left;
+    display: inline-block;
+    width: 266px;
+}
+.a-detailed-assessment {
+    position: absolute;
+    top: 352px;
+    left: 805px;
+    font-size: 16px;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #d6d6d6;
+    text-align: right;
+    display: inline-block;
+    width: 297px;
+}
+.our-skilled-technicians {
+    position: absolute;
+    top: 652px;
+    left: 805px;
+    font-size: 16px;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #d6d6d6;
+    text-align: right;
+    display: inline-block;
+    width: 297px;
+}
+.union-icon {
+    width: 100%;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 26px;
+}
+.icsharp-more-time-parent {
+    width: 1440px;
+    position: relative;
+    height: 924px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 28px;
 }
 .ellipse-div {
     position: absolute;
-    top: 346px;
-    left: 847px;
+    top: 342px;
+    left: 827px;
     filter: blur(100px);
     border-radius: 50%;
-    background: linear-gradient(180deg, #fffefe, #000);
+    background: linear-gradient(180deg, #fffefe, #3555ff);
     width: 341px;
     height: 47px;
+    opacity: 0.3;
 }
 .keep-your-cool {
     position: absolute;
@@ -360,6 +599,7 @@
     line-height: 110%;
     text-transform: capitalize;
     font-weight: 600;
+    color: #fff;
 }
 .the-ultimate-commercial {
     position: absolute;
@@ -367,7 +607,6 @@
     left: 44px;
     line-height: 110%;
     text-transform: capitalize;
-    color: #444448;
 }
 .fv-1000sz {
     position: absolute;
@@ -377,7 +616,7 @@
     line-height: 110%;
     text-transform: capitalize;
     font-weight: 500;
-    color: #444448;
+    color: #d0d0d0;
 }
 .dimensions-1024 {
     position: absolute;
@@ -385,14 +624,12 @@
     left: 41px;
     line-height: 110%;
     text-transform: capitalize;
-    color: #545357;
 }
 .capacity-937 {
     position: absolute;
     top: 323px;
     left: 41px;
     line-height: 110%;
-    color: #545357;
 }
 .learn-more {
     position: relative;
@@ -408,7 +645,7 @@
     top: 367px;
     left: 41px;
     border-radius: 8px;
-    border: 1px solid rgba(68, 68, 73, 0.53);
+    border: 1px solid rgba(177, 177, 177, 0.93);
     box-sizing: border-box;
     width: 168px;
     height: 34px;
@@ -416,200 +653,64 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    gap: 6px;
     font-size: 20px;
+    color: #fff;
 }
-.ellipse-parent {
+.ellipse-group {
     position: absolute;
-    top: 106px;
-    left: 113px;
-    background-color: #d5e0fe;
-    width: 1270px;
+    top: 127px;
+    left: 112px;
+    box-shadow: 2px 2px 19.9px rgba(189, 199, 255, 0.23) inset;
+    border-radius: 16px;
+    background-color: rgba(64, 61, 54, 0.3);
+    width: 1218px;
     height: 434px;
     overflow: hidden;
 }
 .whatsapp-image-2024-06-23-at-2 {
     position: absolute;
-    top: -15px;
-    left: 871px;
+    top: -18px;
+    left: 840px;
     width: 499px;
     height: 573px;
     object-fit: cover;
 }
-.frame-group {
-    width: 1501px;
+.frame-parent {
+    width: 1440px;
     position: relative;
     height: 591px;
     overflow: hidden;
     flex-shrink: 0;
-    z-index: 4;
     text-align: left;
-    color: #09005d;
+    font-size: 20.74px;
+    color: #d6d6d6;
 }
-.frame-child24 {
+.heres-what-others {
     position: absolute;
-    top: 49.5px;
-    left: 733.5px;
-    border-top: 1px solid #000;
-    box-sizing: border-box;
-    width: 223px;
-    height: 1px;
-}
-.explore-our-products {
-    position: absolute;
-    top: 0px;
-    left: calc(50% - 249.5px);
-    line-height: 110%;
+    top: 42px;
+    left: calc(50% - 362px);
+    font-size: 44px;
     text-transform: capitalize;
     font-weight: 500;
-}
-.image-10-icon {
-    position: absolute;
-    top: 35px;
-    left: 34px;
-    width: 208px;
-    height: 263px;
-    object-fit: cover;
-}
-.component-2 {
-    position: absolute;
-    top: 101px;
-    left: 116px;
-    border-radius: 16px;
-    border: 1px solid #ddd;
-    box-sizing: border-box;
-    width: 277px;
-    height: 334px;
-    overflow: hidden;
-}
-.image-5-icon {
-    position: absolute;
-    top: 20px;
-    left: 15px;
-    width: 231px;
-    height: 293px;
-    object-fit: cover;
-}
-.component-3 {
-    position: absolute;
-    top: 101px;
-    left: 450px;
-    border-radius: 16px;
-    border: 1px solid #ddd;
-    box-sizing: border-box;
-    width: 277px;
-    height: 334px;
-    overflow: hidden;
-}
-.image-11-icon {
-    position: absolute;
-    top: 108px;
-    left: 6px;
-    width: 265px;
-    height: 118px;
-    object-fit: cover;
-}
-.component-4 {
-    position: absolute;
-    top: 101px;
-    left: 784px;
-    border-radius: 16px;
-    border: 1px solid #ddd;
-    box-sizing: border-box;
-    width: 277px;
-    height: 334px;
-    overflow: hidden;
-}
-.image-6-icon {
-    position: absolute;
-    top: 36px;
-    left: 7px;
-    width: 262px;
-    height: 262px;
-    object-fit: cover;
-}
-.component-5 {
-    position: absolute;
-    top: 101px;
-    left: 1118px;
-    border-radius: 16px;
-    border: 1px solid #ddd;
-    box-sizing: border-box;
-    width: 277px;
-    height: 334px;
-    overflow: hidden;
-}
-.line-parent {
-    width: 1501px;
-    position: relative;
-    height: 480px;
-    overflow: hidden;
-    flex-shrink: 0;
-    z-index: 5;
-    font-size: 46.67px;
-    color: #000936;
-}
-.rectangle-div {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-color: #dce5ff;
-    width: 1501px;
-    height: 493px;
-}
-.explore-the-voices {
-    position: absolute;
-    top: 189px;
-    left: 410px;
-    font-size: 21px;
-    letter-spacing: 0.01em;
-    font-family: 'Hind Madurai';
-    color: #09005d;
     display: inline-block;
-    width: 680px;
+    width: 724px;
 }
-.what-people-say {
-    position: absolute;
-    top: 116px;
-    left: 479px;
-    font-size: 43px;
-    letter-spacing: 0.27em;
-    font-weight: 600;
-    color: #1c1b1f;
-    text-align: left;
-}
-.testimonials {
-    position: absolute;
-    top: 76px;
-    left: 597px;
-    font-size: 29px;
-    letter-spacing: 0.27em;
-    color: #1c1b1f;
-    text-align: left;
-}
-.div {
-    align-self: stretch;
+.icon {
+    width: 47.5px;
     position: relative;
-    letter-spacing: 0.05em;
-    color: #0871be;
-
-    display: inline-block;
-    height: 85.9px;
-    flex-shrink: 0;
-    transform:  rotate(180deg);
-   
+    height: 39.3px;
 }
 .the-team-at {
     align-self: stretch;
     position: relative;
-    font-size: 20px;
     letter-spacing: 0.03em;
     font-weight: 300;
-    font-family: Mulish;
 }
-.frame-child25 {
+.frame-child9 {
     width: 245px;
     position: relative;
-    border-top: 1px solid #000;
+    border-top: 1px solid #d6d6d6;
     box-sizing: border-box;
     height: 1px;
 }
@@ -617,33 +718,35 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    border-radius: 150.5px;
+    border-radius: 162px;
     width: 51px;
-    height: 63px;
+    height: 52px;
     object-fit: cover;
 }
 .gagandeep {
     position: absolute;
-    top: 9px;
-    left: 74px;
+    top: 3.6px;
+    left: 74.75px;
     letter-spacing: 0.03em;
     font-weight: 500;
 }
 .unsplash3tll-97hnjo-parent {
-    width: 206px;
+    width: 206.8px;
     position: relative;
-    height: 63px;
+    height: 52px;
     font-size: 25px;
+    color: #d6d6d6;
     font-family: 'Hind Madurai';
 }
-.parent {
+.parent1 {
     position: absolute;
-    top: 279px;
-    left: 570px;
-    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    top: 182px;
+    left: 539px;
+    box-shadow: 0px 0px 13.7px 5px rgba(1, 27, 168, 0.12);
     border-radius: 21px;
-    background-color: #ebf7ff;
+    background-color: rgba(64, 61, 54, 0.1);
     width: 361px;
+    height: 419px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -651,14 +754,8 @@
     justify-content: flex-start;
     padding: 20px 34px;
     box-sizing: border-box;
-    gap: 26px;
-    font-size: 153px;
-    font-family: Impact;
-}
-.icon {
-    width: 47.5px;
-    position: relative;
-    height: 39.3px;
+    gap: 39px;
+    font-size: 20px;
 }
 .probiz-solutions-transformed {
     width: 226px;
@@ -667,10 +764,10 @@
     font-weight: 300;
     display: inline-block;
 }
-.frame-child26 {
+.frame-child10 {
     align-self: stretch;
     position: relative;
-    border-top: 1px solid #000;
+    border-top: 1px solid #d6d6d6;
     box-sizing: border-box;
     height: 1px;
 }
@@ -695,15 +792,16 @@
     position: relative;
     height: 52px;
     font-size: 21px;
+    color: #d6d6d6;
     font-family: 'Hind Madurai';
 }
-.group {
+.parent2 {
     position: absolute;
-    top: 311px;
-    left: 1007px;
-    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    top: 202px;
+    left: 972px;
+    box-shadow: 0px 0px 13px 5px rgba(1, 27, 168, 0.1);
     border-radius: 21px;
-    background-color: #ebf7ff;
+    background-color: rgba(64, 61, 54, 0.1);
     width: 330px;
     height: 387px;
     overflow: hidden;
@@ -714,7 +812,6 @@
     padding: 40px 15px 0px;
     box-sizing: border-box;
     gap: 35px;
-    font-family: Mulish;
 }
 .harpal-singh {
     position: absolute;
@@ -728,15 +825,16 @@
     position: relative;
     height: 52px;
     font-size: 21px;
+    color: #d6d6d6;
     font-family: 'Hind Madurai';
 }
-.container {
+.parent3 {
     position: absolute;
-    top: 311px;
-    left: 164px;
-    box-shadow: 0px -6px 4px rgba(0, 0, 0, 0.25);
+    top: 202px;
+    left: 137px;
+    box-shadow: 0px 0px 13px 5px rgba(1, 27, 168, 0.1);
     border-radius: 21px;
-    background-color: #ebf7ff;
+    background-color: rgba(64, 61, 54, 0.1);
     width: 330px;
     height: 387px;
     overflow: hidden;
@@ -747,150 +845,119 @@
     padding: 40px 15px 0px;
     box-sizing: border-box;
     gap: 35px;
-    font-family: Mulish;
 }
-.frame-child28 {
-    position: absolute;
-    top: -33px;
-    left: -11px;
-    border-radius: 50%;
-    background-color: #4345e7;
-    width: 175px;
-    height: 175px;
-}
-.vector-icon {
-    position: absolute;
-    height: 7.84%;
-    width: 9.26%;
-    top: 53.51%;
-    right: -2.2%;
-    bottom: 38.65%;
-    left: 92.94%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-    object-fit: contain;
-    opacity: 0.8;
-}
-.rectangle-parent {
-    width: 1501px;
+.heres-what-others-have-to-sa-parent {
+    width: 1440px;
     position: relative;
-    background-color: #f4f8ff;
-    height: 740px;
+    height: 658px;
     overflow: hidden;
     flex-shrink: 0;
-    z-index: 6;
     font-size: 17px;
-    font-family: Montserrat;
 }
-.icsharp-facebook {
+.frame-child12 {
     position: absolute;
-    top: 0px;
-    left: 20px;
-    width: 20px;
-    height: 20px;
-    overflow: hidden;
+    top: 131.62px;
+    left: 120px;
+    width: 233px;
+    height: 13.4px;
 }
-.icsharp-facebook1 {
+.reach-out1 {
     position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 20px;
-    height: 20px;
-    overflow: hidden;
-}
-.reach-out {
-    position: absolute;
-    top: 63px;
-    left: 162px;
+    top: 84px;
+    left: 112px;
     font-size: 50px;
     font-weight: 500;
 }
 .arrow-outward-icon1 {
     position: absolute;
-    top: 68px;
-    left: 412px;
+    top: 89px;
+    left: 362px;
     width: 61px;
     height: 61px;
 }
 .have-questions-or {
     position: absolute;
-    top: 147px;
-    left: 162px;
-    color: #3e3e3e;
+    top: 156px;
+    left: 112px;
+    color: #d6d6d6;
     white-space: pre-wrap;
     display: inline-block;
     width: 648px;
 }
 .call-icon {
     position: absolute;
-    top: 337px;
-    left: 162px;
+    top: 358px;
+    left: 112px;
     width: 24px;
     height: 24px;
 }
 .near-me-icon {
     position: absolute;
-    top: 337px;
-    left: 486px;
+    top: 358px;
+    left: 436px;
     width: 24px;
     height: 24px;
 }
 .attach-email-icon {
     position: absolute;
-    top: 420px;
-    left: 162px;
+    top: 441px;
+    left: 112px;
     width: 24px;
     height: 24px;
 }
-.div1 {
+.div4 {
     position: absolute;
-    top: 337px;
-    left: 208px;
+    top: 358px;
+    left: 158px;
+    line-height: 26px;
 }
-.probizsolutionsgmailcom {
+.ellipse-icon {
     position: absolute;
-    top: 417px;
-    left: 197px;
+    top: 444px;
+    left: 1237px;
+    width: 344px;
+    height: 348.6px;
+    object-fit: contain;
+}
+.probizjkgmailcom {
+    position: absolute;
+    top: 438px;
+    left: 147px;
 }
 .plot-no-7-container {
     position: absolute;
-    top: 337px;
-    left: 532px;
+    top: 358px;
+    left: 482px;
 }
-.frame-child29 {
+.frame-child13 {
     position: absolute;
-    top: 70px;
-    left: 935px;
+    top: 84px;
+    left: 876px;
     width: 460px;
     height: 399px;
     overflow: hidden;
 }
-.icsharp-facebook-parent {
-    width: 1501px;
+.vector-parent {
+    width: 1440px;
     position: relative;
-    background-color: #dce5ff;
-    height: 573px;
+    height: 609px;
     overflow: hidden;
     flex-shrink: 0;
-    z-index: 7;
     text-align: left;
     font-size: 19.22px;
 }
-.probiz-web {
+.desktop-1 {
     position: relative;
-    background-color: #f8faff;
+    background-color: #212125;
     width: 100%;
-    height: 3978px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    gap: 2px;
     text-align: center;
-    font-size: 20.74px;
-    color: #000;
+    font-size: 44px;
+    color: #fff;
     font-family: Mulish;
 }
 
