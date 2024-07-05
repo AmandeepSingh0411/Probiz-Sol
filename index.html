@@ -14,19 +14,30 @@
 </head>
 <body>
   	
+      <script>
+        function scrollToDiv(divId) {
+          const element = document.getElementById(divId);
+          if (element) {
+            element.scrollIntoView({ behavior: 'smooth' });
+          } else {
+            console.error(`Element with ID "${divId}" not found`);
+          }
+        }
+      </script>
+  	
   	<div class="desktop-1">
     		<div class="nav">
       			<div class="about-parent">
-        				<div class="about">About</div>
-        				<div class="about">Partners</div>
-        				<div class="about">Services</div>
+        				<div class="about"><a href="#" onclick="scrollToDiv('about')" class=no-link-style>About</a> </div>
+        				<div class="about"><a href="#" onclick="scrollToDiv('partners')" class=no-link-style>Partners</a></div>
+        				<div class="about"><a href="#" onclick="scrollToDiv('services')" class=no-link-style>Services</a></div>
       			</div>
       			<img class="logof-1-icon" alt="" src="images\logof.png">
       			
       			<div class="ellipse-parent">
         				<div class="frame-child">
         				</div>
-        				<div class="reach-out">Reach Out</div>
+        				<div class="reach-out"><a href="#" onclick="scrollToDiv('Reach')" class=no-link-style>Reach Out</a></div>
       			</div>
     		</div>
     		<div class="your-premier-source-for-top-qu-parent">
@@ -58,6 +69,7 @@
       			<div class="frame-inner">
       			</div>
     		</div>
+        <div id = "partners"></div>
     		<div class="probiz-is-trusted-by-parent">
       			<b class="probiz-is-trusted">ProBiz is trusted by</b>
       			<div class="rectangle-parent">
@@ -87,6 +99,7 @@
         				
       			</div>
     		</div>
+        <div id = "about"></div>
     		<div class="why-probiz-parent">
       			<b class="why-probiz">why ProBiz</b>
       			<div class="choose-probiz-solutions">Choose ProBiz Solutions for unparalleled expertise in hardware services and a diverse range of high-quality products. We're committed to delivering exceptional value and reliability to meet all your commercial needs</div>
@@ -113,6 +126,7 @@
         				<div class="our-team-of">We prioritize your satisfaction, delivering exceptional service and value to help your business thrive.</div>
       			</div>
     		</div>
+        <div id ="services"></div>
     		<div class="icsharp-more-time-parent">
       			<img class="icsharp-more-time-icon" alt="" src="images\ic_sharp-more-time.svg">
       			
@@ -198,6 +212,7 @@
         				</div>
       			</div>
     		</div>
+        <div id ="Reach"></div>
     		<div class="vector-parent">
       			<img class="frame-child12" alt="" src="images\Vector 15.svg">
       			
