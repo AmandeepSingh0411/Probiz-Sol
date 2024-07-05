@@ -964,7 +964,8 @@
 .exideui-icon:hover,
 .voltasui-icon:hover,
 .westernui-icon:hover,
-.symphonyui-icon:hover {
+.symphonyui-icon:hover,
+.arrow-outward-icon:hover{
     transition: transform 0.5s, opacity 0.5s, box-shadow 0.5s;
     transform: scale(1.1); /* increase size by 10% */
     opacity: 0.8; /* reduce opacity to 80% */
