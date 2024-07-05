@@ -960,4 +960,16 @@
     color: #fff;
     font-family: Mulish;
 }
+.frigoui-icon:hover,
+.exideui-icon:hover,
+.voltasui-icon:hover,
+.westernui-icon:hover,
+.symphonyui-icon:hover {
+    transition: transform 0.5s, opacity 0.5s, box-shadow 0.5s;
+    transform: scale(1.1); /* increase size by 10% */
+    opacity: 0.8; /* reduce opacity to 80% */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* add a shadow effect */
+    cursor: pointer; /* change cursor to a pointing hand */
+}
+
 
