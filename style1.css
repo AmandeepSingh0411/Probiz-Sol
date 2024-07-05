@@ -972,5 +972,9 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* add a shadow effect */
     cursor: pointer; /* change cursor to a pointing hand */
 }
+.no-link-style {
+    text-decoration: none;
+    color: inherit;
+  }
 
 
